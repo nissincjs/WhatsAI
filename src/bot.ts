@@ -1,7 +1,7 @@
 import { Stab_Diff } from "./functions/stable_diffusion";
 import { xEvent, Restart } from "./core/utils";
 import { Sticker } from "./functions/sticker";
-import { proto } from "@WhiskeySockets/Baileys";
+import { proto } from "@whiskeysockets/baileys";
 import { connect } from "./core/connection";
 import type { TProps } from "./core/TTypes";
 import fs from "fs";
